@@ -1,2 +1,2 @@
 # Resume
-Contains my latest resume
+Contains my resume
